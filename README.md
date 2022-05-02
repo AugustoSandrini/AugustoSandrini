@@ -1,5 +1,3 @@
-<img align="center" alt="Augusto" height="100" width="300" src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif">
-
 ## Olá! Eu sou o Augusto 
 
 - 🔭 À procura de emprego!
