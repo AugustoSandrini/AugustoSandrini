@@ -27,4 +27,5 @@
   </div>
   
   
+  
   ![Snake animation](https://github.com/AugustoSandrini/AugustoSandrini/blob/output/github-contribution-grid-snake.svg)
