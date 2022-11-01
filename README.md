@@ -20,6 +20,16 @@
   
   ##
   
+  ### Tecnologias e Ferramentas
+  
+  - Java
+  - Spring Boot
+  - SQL
+  - Docker
+  - Postgres
+  
+  ##
+  
 <div>
   <a href="https://www.linkedin.com/in/augusto-sandrini-7105a9234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/AugustoSandrini#7222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
