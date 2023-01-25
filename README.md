@@ -26,7 +26,7 @@
   - Spring Boot
   - SQL
   - Docker
-  - Postgres
+  - PostgreSQL
   - VueJs
   
   ##
