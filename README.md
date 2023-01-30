@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Augusto 
 
-- 🔭 À procura de emprego!
 - 🌱 Estudando Java e Spring Boot.
 - ✨ Procurando melhores praticas de aprender!
 
