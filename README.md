@@ -26,7 +26,7 @@
   - SQL
   - Docker
   - PostgreSQL
-  - VueJs
+  - AngularJS
   
   ##
   
