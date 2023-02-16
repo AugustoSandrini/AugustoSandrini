@@ -6,14 +6,13 @@
 <div>
   <a href="https://github.com/AugustoSandrini">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AugustoSandrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSandrini&layout=compact&langs_count=10&hide_border=true&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSandrini&layout=compact&langs_count=8&hide_border=true&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="AugustoJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="AugustoSB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Augustosql" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png">
-  <img align="center" alt="AugustoMacOS" height="40" width="40" src="https://img.icons8.com/color/48/undefined/mac-os--v1.png">
   <img align="center" alt="AugustoIDEA" height="40" width="40" src="https://img.icons8.com/plasticine/100/000000/intellij-idea.png">
 </div>
   
