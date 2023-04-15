@@ -25,6 +25,8 @@
   - Docker
   - PostgreSQL
   - AngularJS
+  - Vue
+  - TypeScript
   
   ##
   
