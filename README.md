@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Augusto 
 
-- 🌱 Estudando Java e Spring Boot.
 - ✨ Procurando melhores praticas de aprender!
 
 <div>
