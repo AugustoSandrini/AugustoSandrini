@@ -26,9 +26,9 @@
   - Spring Boot
   - Docker
   - PostgreSQL
+  - HTML/CSS
   - TypeScript
   - React
-  - NextJS
   - Vue
   - SASS
   
