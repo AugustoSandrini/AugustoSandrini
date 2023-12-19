@@ -15,6 +15,7 @@
   <img align="center" alt="AugustoReact" height="30" width="30" src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW">
   <img align="center" alt="AugustoVue" height="30" width="30" src="https://img.icons8.com/?size=256&id=dzfo6UeXW9h7">
   <img align="center" alt="AugustoIDEA" height="40" width="40" src="https://img.icons8.com/plasticine/100/000000/intellij-idea.png">
+  <img align="center" alt="AugustoVScode" height="30" width="30" src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png">
   <img align="center" alt="AugustoLinux" height="40" width="40" src="https://img.icons8.com/color/256/linux.png">
 </div>
   
