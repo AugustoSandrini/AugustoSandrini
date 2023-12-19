@@ -5,9 +5,9 @@
 <div>
   <a href="https://github.com/AugustoSandrini">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AugustoSandrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSandrini&layout=compact&langs_count=8&hide_border=true&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSandrini&layout=compact&langs_count=8&hide_border=false&theme=dark"/>
 </div>
-  
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="AugustoJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="AugustoSB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
