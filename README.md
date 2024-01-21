@@ -1,4 +1,4 @@
-## Olá! Eu sou o Augusto 
+## Olá! Eu sou o Augusto!
 
 - ✨ Procurando melhores praticas de aprender!
 
