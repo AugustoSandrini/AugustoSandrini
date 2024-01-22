@@ -25,7 +25,7 @@
   - Java
   - Spring Boot
   - Docker
-  - PostgreSQL
+  - MySQL/PostgreSQL
   - HTML/CSS
   - TypeScript
   - React
