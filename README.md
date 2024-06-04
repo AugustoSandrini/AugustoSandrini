@@ -9,12 +9,15 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="AugustoTS" height="40" width="40" src="https://img.icons8.com/?size=256&id=y7WGoWNuIWac&format=png">
-   <img align="center" alt="AugustoTS" height="40" width="40" src="https://img.icons8.com/?size=256&id=Fycm8TUhWmFU&format=png">
+  <img align="center" alt="AugustoCsharp" height="40" width="40" src="https://img.icons8.com/?size=256&id=Fycm8TUhWmFU&format=png">
+  <img align="center" alt="AugustoDotNetCore" height="40" width="40" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png">
+  <img align="center" alt="AugustoDocker" height="40" width="40" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png">
+  <img align="center" alt="AugustoMySQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png">
+  <img align="center" alt="AugustoMongoDB" height="40" width="40" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png">
   <img align="center" alt="AugustoTS" height="40" width="40" src="https://img.icons8.com/?id=nCj4PvnCO0tZ">
-  <img align="center" alt="AugustoReact" height="30" width="30" src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW">
-  <img align="center" alt="AugustoVue" height="30" width="30" src="https://img.icons8.com/?size=256&id=dzfo6UeXW9h7">
-  <img align="center" alt="AugustoVSCode" height="30" width="30" src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png">
+  <img align="center" alt="AugustoVue" height="40" width="40" src="https://img.icons8.com/?size=256&id=dzfo6UeXW9h7">
+  <img align="center" alt="AugustoVisualCode" height="40" width="40" src="https://img.icons8.com/?size=256&id=y7WGoWNuIWac&format=png">
+  <img align="center" alt="AugustoVSCode" height="40" width="40" src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png">
 </div>
   
   ##
@@ -28,7 +31,6 @@
   - MongoDB
   - HTML/CSS
   - TypeScript
-  - React
   - Vue
   - SASS
   
