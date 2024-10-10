@@ -29,10 +29,8 @@
   - Docker
   - MySQL/PostgreSQL
   - MongoDB
-  - HTML/CSS
   - TypeScript
   - Vue
-  - SASS
   
   ##
   
