@@ -37,6 +37,6 @@
 <div>
   <a href="https://www.linkedin.com/in/Augusto-Sandrini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/AugustoSandrini#7222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  </div>
 
-![Snake animation](https://github.com/AugustoSandrini/AugustoSandrini/blob/output/github-contribuition-grid-snake.svg)
+  ![Snake animation](https://github.com/AugustoSandrini/AugustoSandrini/blob/output/github-contribuition-grid-snake.svg)
+  </div>
